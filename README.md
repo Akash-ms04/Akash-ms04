@@ -1,6 +1,14 @@
+
+<div align="center">
+
 # Hi, I'm Akash M S
 
-### Data Analyst Intern | Turning Data into Actionable Insights
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;SQL+%26+PostgreSQL+Enthusiast;Power+BI+Developer;Python+%7C+EDA+%7C+Data+Visualization" alt="Typing SVG" />
+
+**Turning data into actionable insights.**
+
+</div>
+
 
 I'm a Data Analyst Intern passionate about analyzing data, discovering trends, and translating business data into meaningful insights. I work with SQL, PostgreSQL, Excel, Power BI, Tableau, and Python to clean data, perform analysis, and build interactive dashboards.
 
