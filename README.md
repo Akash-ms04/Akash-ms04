@@ -10,12 +10,6 @@
 </div>
 
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&perline=5" alt="Python, PostgreSQL, Git, GitHub and VS Code" />
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,git,github&perline=4" alt="Development tools" />
 </p>
@@ -25,6 +19,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
+
 
 I'm a Data Analyst Intern passionate about analyzing data, discovering trends, and translating business data into meaningful insights. I work with SQL, PostgreSQL, Excel, Power BI, Tableau, and Python to clean data, perform analysis, and build interactive dashboards.
 
