@@ -10,6 +10,13 @@
 </div>
 
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&perline=5" alt="Python, PostgreSQL, Git, GitHub and VS Code" />
+</p>
+
+
 I'm a Data Analyst Intern passionate about analyzing data, discovering trends, and translating business data into meaningful insights. I work with SQL, PostgreSQL, Excel, Power BI, Tableau, and Python to clean data, perform analysis, and build interactive dashboards.
 
 ## Skills & Technologies
